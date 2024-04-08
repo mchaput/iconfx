@@ -26,7 +26,7 @@
      showgrid="true"
      inkscape:zoom="27.367"
      inkscape:cx="11.565"
-     inkscape:cy="12.4785"
+     inkscape:cy="12.4603"
      inkscape:window-width="2560"
      inkscape:window-height="1378"
      inkscape:window-x="-6"
@@ -59,18 +59,14 @@
     <path
        id="path2"
        style="overflow:visible;fill:none;stroke:#000000;stroke-width:0.264998;stroke-linecap:round;stroke-linejoin:round"
-       d="M 5.16626,2.65293 A 2.51333,2.51333 0 0 1 2.65293,5.16626 2.51333,2.51333 0 0 1 0.139596,2.65293 2.51333,2.51333 0 0 1 2.65293,0.139596 2.51333,2.51333 0 0 1 5.16626,2.65293 Z" />
-    <g
-       id="g1"
-       transform="rotate(45,3.52817,2.31612)">
-      <path
-         style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.265112;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-         d="M 2.23335,2.28169 4.08467,4.13301"
-         id="path3" />
-      <path
-         style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.265112;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
-         d="M 4.08467,2.28169 2.23335,4.13301"
-         id="path4" />
-    </g>
+       d="M 5.16626,2.67227 A 2.51333,2.51333 0 0 1 2.65293,5.1856 2.51333,2.51333 0 0 1 0.139596,2.67227 2.51333,2.51333 0 0 1 2.65293,0.158932 2.51333,2.51333 0 0 1 5.16626,2.67227 Z" />
+    <path
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.265112;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="m 2.63694,1.39554 0,2.61816"
+       id="path3" />
+    <path
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.265112;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+       d="M 3.94602,2.70462 H 1.32786"
+       id="path4" />
   </g>
 </svg>
