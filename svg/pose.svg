@@ -116,14 +116,6 @@
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999996;stroke-dasharray:none;marker:none;enable-background:accumulate"
        inkscape:transform-center-x="-0.482787"
        inkscape:transform-center-y="3.18386" />
-    <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999996;stroke-dasharray:none;marker:none;enable-background:accumulate"
-       d="m 14.5643,12.3657 c -0.3256,-0.5879 1.1884,-1.0937 1.3833,-0.7531 1.2106,2.1172 1.6719,3.629 1.682,5.2272 0,0.3202 -0.3214,0.2324 -0.6019,0.045 0,0 -2.0026,-3.6876 -2.4634,-4.5193 z"
-       id="path3891"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssscs"
-       inkscape:transform-center-x="-1.12229"
-       inkscape:transform-center-y="2.93833" />
     <ellipse
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.00001;stroke-miterlimit:4;stroke-dasharray:none;marker:none;enable-background:accumulate"
        id="path3821"
@@ -164,5 +156,13 @@
        cy="13.3639"
        rx="1.1951"
        ry="1.19554" />
+    <path
+       sodipodi:nodetypes="ssscs"
+       inkscape:connector-curvature="0"
+       id="path1"
+       d="m 14.8643,12.2577 c -0.2933,-0.6036 1.3355,-1.0844 1.5116,-0.7348 1.0962,2.175 1.4563,3.72 1.3364,5.3425 -0.024,0.3252 -0.355,0.2303 -0.6346,0.033 0,0 -1.7982,-3.7861 -2.2134,-4.6406 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.999996;stroke-dasharray:none;marker:none;enable-background:accumulate"
+       inkscape:transform-center-x="-1.14462"
+       inkscape:transform-center-y="2.92827" />
   </g>
 </svg>
