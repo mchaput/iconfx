@@ -25,8 +25,8 @@
      inkscape:document-units="px"
      showgrid="true"
      inkscape:zoom="31.5006"
-     inkscape:cx="12.3014"
-     inkscape:cy="9.44426"
+     inkscape:cx="12.3331"
+     inkscape:cy="9.42839"
      inkscape:current-layer="layer1">
     <inkscape:grid
        id="grid1"
@@ -54,42 +54,42 @@
     <path
        id="path6"
        style="overflow:visible;fill:none;stroke:#000000;stroke-width:0.264582;stroke-linecap:round;stroke-linejoin:round"
-       d="M 4.81361,2.39903 C 5.51654,2.62792 5.06522,3.6178 4.45002,4.36022 3.95515,4.95743 3.0925,5.14785 2.51233,5.14785 1.21092,5.14785 0.13231,3.93813 0.13231,2.58705 0.13231,1.945 0.350514,1.26235 0.764192,0.850207 1.17787,0.438062 1.58559,0.115851 2.37112,0.140691 3.15665,0.165531 3.80065,0.816688 3.81375,1.41687 3.82684,2.01706 2.44138,2.95699 3.21056,3.47225 3.97974,3.98749 4.11069,2.17014 4.81361,2.39903 Z"
-       sodipodi:nodetypes="zssszzzzz" />
-    <ellipse
-       style="color:#000000;overflow:visible;fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
-       id="path7"
-       cx="2.74062"
-       cy="1.06647"
-       rx="0.409458"
-       ry="0.425089" />
+       d="M 4.9228,2.54182 C 5.25835,2.95573 5.04002,3.85298 4.55921,4.50301 4.09798,5.12656 3.0925,5.14785 2.51233,5.14785 1.21092,5.14785 0.13231,3.93813 0.13231,2.58705 0.13231,1.945 0.350514,1.26235 0.764192,0.850207 1.17787,0.438062 1.58559,0.115851 2.37112,0.140691 3.15665,0.165531 3.78282,0.645037 3.81375,1.41687 3.84468,2.1887 4.58725,2.12791 4.9228,2.54182 Z"
+       sodipodi:nodetypes="zssszzzz" />
     <ellipse
        style="color:#000000;overflow:visible;fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
        id="circle7"
-       cx="1.69335"
-       cy="1.44553"
+       cx="2.23091"
+       cy="1.27754"
        rx="0.409458"
        ry="0.425089" />
     <ellipse
        style="color:#000000;overflow:visible;fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
        id="circle8"
-       cx="1.11959"
-       cy="2.43958"
+       cx="1.18678"
+       cy="2.2128"
        rx="0.409458"
        ry="0.425089" />
     <ellipse
        style="color:#000000;overflow:visible;fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
        id="ellipse1"
-       cx="2.51384"
-       cy="4.30021"
+       cx="2.53904"
+       cy="4.25821"
        rx="0.409458"
        ry="0.425089" />
     <ellipse
        style="color:#000000;overflow:visible;fill:#000000;stroke:none;stroke-width:0.264583;stroke-linecap:round;stroke-linejoin:round"
        id="ellipse2"
-       cx="1.49756"
-       cy="3.54828"
+       cx="1.44717"
+       cy="3.55668"
        rx="0.409458"
        ry="0.425089" />
+    <ellipse
+       style="color:#000000;overflow:visible;fill:none;stroke:#000000;stroke-width:0.264584;stroke-linecap:round;stroke-linejoin:round"
+       id="ellipse3"
+       cx="3.86039"
+       cy="3.06659"
+       rx="0.466606"
+       ry="0.483883" />
   </g>
 </svg>
