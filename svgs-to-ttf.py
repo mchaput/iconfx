@@ -75,9 +75,9 @@ def createFont(svg_dir: pathlib.Path, build_dir: pathlib.Path,
 
 if __name__ == "__main__":
     createFont(
-        pathlib.Path("./svg"),
-        pathlib.Path("./build"),
-        pathlib.Path("./iconfx.codepoints"),
-        pathlib.Path("./iconfx.ttf")
+        svg_dir=pathlib.Path("./svg"),
+        build_dir=pathlib.Path("./build"),
+        codepoints=pathlib.Path("./iconfx.codepoints"),
+        output=pathlib.Path("./iconfx.ttf")
     )
 
