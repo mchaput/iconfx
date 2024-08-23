@@ -19,6 +19,7 @@ polygon_normal = 0xe961
 pose = 0xe962
 pose_t = 0xe963
 position = 0xe964
+sdf = 0xe96f
 select_face = 0xe965
 select_object = 0xe966
 string = 0xe967
